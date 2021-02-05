@@ -111,6 +111,4 @@ public class PassengerSignInActivity extends AppCompatActivity {
         }
 
     }
-
-    String hi = "hello git again second";
 }
