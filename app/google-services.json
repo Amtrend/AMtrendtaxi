@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "289842870710",
+    "project_id": "amtrend-taxi",
+    "storage_bucket": "amtrend-taxi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289842870710:android:2310759b73cb88a0b02917",
+        "android_client_info": {
+          "package_name": "ru.amtrend.amtrendtaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289842870710-temuroloa7fudmn1g8vjclbnq4roh4qk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.amtrend.amtrendtaxi",
+            "certificate_hash": "3f4af306d731649a7d2a79e8058d98acbc2bad1a"
+          }
+        },
+        {
+          "client_id": "289842870710-cerbvr7dgaruip0nbloo2am5iegic8hq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy2wGGS2FojzKQKQu0paM_Kn-u3T31pSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289842870710-cerbvr7dgaruip0nbloo2am5iegic8hq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
